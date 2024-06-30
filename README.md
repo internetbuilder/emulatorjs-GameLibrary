@@ -1,4 +1,4 @@
-
+#
 # Game Library [![Badge License]][License]
 
 *A game library extension for* ***[EmulatorJS]***
